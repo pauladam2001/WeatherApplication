@@ -4,7 +4,7 @@
 # Used Concepts
 - Object Oriented Programming
 - Tkinter GUI
-- Open Weather API, Postman, requests package in pyton, json data, PyInstaller
+- Open Weather API, Postman, requests package in python, json data, PyInstaller
 ---
 # Functionalities
 - Type the city and see the weather (displayed for Romania time zone - GMT+3)
